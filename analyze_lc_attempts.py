@@ -1,15 +1,7 @@
 '''
-Leetcode script to analyze your submission history. 
+Script to analyze your LC submisison history
 
-This script takes all attempts you have ever submitted for a Leetcode problem and \
-tabulates the following on a per-problem basis: number of attempts made, \  
-submission status (`Accepted` or `Not Accepted`), the first date the problem was \ 
-attempted, and the date the problem was solved, if it has been. 
-
-This should be useful for identifying challenging problems and following up on \
-problems that have previously been attempted but not solved. 
-
-# How to use this script: 
+How to use this script: 
 1. Go to your leetcode submission history: https://leetcode.com/submissions/#/1 \ 
 (it should look like this: https://imgur.com/a/Ln8GuTs).
 2. Scrape your submission history into a CSV file and name it `lc_arguments.py`.
