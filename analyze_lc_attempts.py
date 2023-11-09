@@ -34,8 +34,8 @@ import pandas as pd
 
 
 # Constants
-DEFAULT_INPUT_CSV_PATH = 'lc_attempts.csv'
-DEFAULT_OUTPUT_CSV_PATH = 'lc_attempts_analysis.csv'
+DEFAULT_INPUT_CSV_PATH = 'example_lc_attempts.csv'
+DEFAULT_OUTPUT_CSV_PATH = 'example_lc_attempts_analysis.csv'
 
 
 def relative_time_to_date(relative_time):
